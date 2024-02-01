@@ -1,3 +1,3 @@
-# your_username.github.io
+# rich-programmer23.github.io
 Portfolio site
 more on my projects and hobbies...
